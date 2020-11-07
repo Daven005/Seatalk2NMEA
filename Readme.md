@@ -1,0 +1,1 @@
+Seatalk2NMEA an ESP32 based module to connect Seatalk, Bluetooth LE and NMEA
